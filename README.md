@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I'm Elio, Software Engineer with more than 10 years experience.
+
+- 📫 How to reach me: eliocapelati at gmail, and [linkedin](https://www.linkedin.com/in/eliocapelati/)
+- 😄 Pronouns: He/Him
+- ✨ Stack: Java, SpringBoot, Kubernetes, Ruby on Rails, AWS.
+
+
 <!--
 **eliocapelati/eliocapelati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
