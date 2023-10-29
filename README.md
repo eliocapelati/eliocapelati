@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Elio, Software Engineer with more than 10 years experience.
+I'm Elio, Software Engineer with extensive experience in cloud native microservices.
 
 - 📫 How to reach me: eliocapelati at gmail, and [linkedin](https://www.linkedin.com/in/eliocapelati/)
 - 😄 Pronouns: He/Him
